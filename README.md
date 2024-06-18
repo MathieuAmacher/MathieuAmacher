@@ -1,5 +1,5 @@
 <h1 align="center"> Bonjour 😄, my name is Mathieu</h1>
-<h3 align="center"> I do code : Data Scientist and Web Developper</h3>
+<h3 align="center"> I do code : Data Scientist and Web Developer</h3>
 <br>
 <br>
 I graduate in Data Science from 🏁 🚌
