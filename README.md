@@ -39,8 +39,6 @@ you can reach me :
 this is my linkedin 👉:
 https://fr.linkedin.com/in/mathieu-amacher-2920a034
 <br>
-<br>
-I pratice:
 
 
 
