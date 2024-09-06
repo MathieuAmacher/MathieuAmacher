@@ -7,20 +7,32 @@
   </h2>
   <a id="user-content--languages" class="anchor" aria-label="Permalink: 🧑‍💻 Languages" href="#-languages">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25           1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0        0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-      <p dir="auto">
-<img alt="python" src="https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=Python&logoColor=black", style="height: 30px; width: auto;">
-<img alt="ruby" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white", style="height: 30px; width: auto;">
-<br>
-<img alt="ruby" src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white", style="height: 30px; width: auto;">
-<img alt="javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black", style="height: 30px; width: auto;">
-<img alt="html" src="https://img.shields.io/badge/HTML-%23FF6347?style=for-the-badge&logo=html5&logoColor=white", style="height: 30px; width: auto;">
-<img alt="css" src="https://img.shields.io/badge/CSS-%236495ED?style=for-the-badge&logo=css3", style="height: 30px; width: auto;">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25           1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0        0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
+  </a>
+  <p dir="auto">
+    <img alt="python" src="https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=Python&logoColor=black", style="height: 30px; width: auto;">
+    <img alt="ruby" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white", style="height: 30px; width: auto;">
+    <br>
+    <img alt="ruby" src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white", style="height: 30px; width: auto;">
+    <img alt="javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black", style="height: 30px; width: auto;">
+    <img alt="html" src="https://img.shields.io/badge/HTML-%23FF6347?style=for-the-badge&logo=html5&logoColor=white", style="height: 30px; width: auto;">
+    <img alt="css" src="https://img.shields.io/badge/CSS-%236495ED?style=for-the-badge&logo=css3", style="height: 30px; width: auto;">
+  </p>
+</div>
 
 
 
-
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">⚙️ Frameworks &amp; Libraries</h2><a id="user-content-️-frameworks--libraries" class="anchor" aria-label="Permalink: ⚙️ Frameworks &amp; Libraries" href="#️-frameworks--libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto">
+  <h2 class="heading-element" dir="auto">
+    ⚙️ Frameworks &amp; Libraries
+  </h2>
+  <a id="user-content-️-frameworks--libraries" class="anchor" aria-label="Permalink: ⚙️ Frameworks &amp; Libraries" href="#️-frameworks--libraries">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
+      </path>
+    </svg>
+  </a>
 <div>
 <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF7F50?style=for-the-badge&logo=tensorflow&logoColor=white", style="height: 30px; width: auto;">
 <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit_Lean-blue?style=for-the-badge&logo=scikitlearn&logoColor=white", style="height: 30px; width: auto;">
