@@ -40,7 +40,7 @@
 <br>
 <p> fell free to contact me for your project</p>
 <p align="center">
-  <p>------></p></p><a href="mailto:amacher_mathieu@hotmail.com" style="text-decoration: none; font-size: 80px;">📫</a>
+  </p><a href="mailto:amacher_mathieu@hotmail.com" style="text-decoration: none; font-size: 80px;">📫</a>
 </p>
 
 
