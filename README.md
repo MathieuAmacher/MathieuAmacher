@@ -1,5 +1,5 @@
 <h1 align="center"> Bonjour 😄, my name is Mathieu</h1>
-<h3 align="center"> I do code : certified Datascientist, Machine Learning, Deep Learning and Web Development</h3>
+<h3 align="center"> Certified Machine Learning Engineer, Datascientist, Web Developper</h3>
 
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">
@@ -7,9 +7,7 @@
   </h2>
   <p dir="auto">
     <img alt="python" src="https://img.shields.io/badge/Python-gold?style=for-the-badge&logo=Python&logoColor=black", style="height: 30px; width: auto;">
-    <img alt="ruby" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white", style="height: 30px; width: auto;">
-    <br>
-    <img alt="ruby" src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby&logoColor=white", style="height: 30px; width: auto;">
+    <img alt="sql" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white", style="height: 30px; width: auto;">
     <img alt="javascript" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black", style="height: 30px; width: auto;">
     <img alt="html" src="https://img.shields.io/badge/HTML-%23FF6347?style=for-the-badge&logo=html5&logoColor=white", style="height: 30px; width: auto;">
     <img alt="css" src="https://img.shields.io/badge/CSS-%236495ED?style=for-the-badge&logo=css3", style="height: 30px; width: auto;">
