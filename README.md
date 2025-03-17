@@ -29,16 +29,12 @@
 </div>
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">
-    🌥️ Cloud Services
+    🌥️ Cloud Services for deployment
   </h2>
   <img alt="docker" src="https://img.shields.io/badge/Docker-%234682B4?style=for-the-badge&logo=docker&logoColor=white", style="height: 30px; width: auto;">
   <img alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-%232E8B57?style=for-the-badge&logo=googlecloud&logoColor=white", style="height: 30px; width: auto;">
-  <img alt="bigquery" src="https://img.shields.io/badge/BigQuery-%234169E1?style=for-the-badge&logo=googlebigquery&logoColor=white", style="height: 30px; width: auto;">
   <img alt="aws" src="https://img.shields.io/badge/AWS-%23FFFF00?style=for-the-badge&logo=amazonwebservices&logoColor=black", style="height: 30px; width: auto;">
   <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/streamlit-%23F08080?style=for-the-badge&logo=streamlit&logoColor=white", style="height: 30px; width: auto;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white", style="height: 30px; width: auto;">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-%239932CC?style=for-the-badge&logo=heroku&logoColor=white", style="height: 30px; width: auto;">
 </div>
 <br>
 <br>
