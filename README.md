@@ -1,5 +1,5 @@
 <h1 align="center"> Bonjour 😄, my name is Mathieu</h1>
-<h3 align="center">Machine Learning Engineer, DatasScientist, Web Developper</h3>
+<h3 align="center">Certified Machine Learning Engineer, DatasScientist, Web Developper</h3>
 
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">
